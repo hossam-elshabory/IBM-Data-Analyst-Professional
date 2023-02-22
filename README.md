@@ -37,7 +37,7 @@ This Professional Certificate does not require any prior programming or statisti
 <em>There are 9 Courses in this Professional Certificate.</em>
 </p>
 
-### [📓 Introduction to Data Analytics]()
+### [📓 Introduction to Data Analytics](https://github.com/hossam-elshabory/IBM-Data-Analyst-Professional/tree/main/01_Introduction%20to%20Data%20Analytics)
 <details>
 <summary>Click To View The Certificate & The About This Course Section.</summary>
 
@@ -57,7 +57,7 @@ This course will help you to differentiate between the roles of Data Analysts, D
 
 ****
 
-### [📓 Excel Basics for Data Analysis]()
+### [📓 Excel Basics for Data Analysis](https://github.com/hossam-elshabory/IBM-Data-Analyst-Professional/tree/main/02_Excel%20Basics%20for%20Data%20Analysis)
 <details>
 <summary>Click To View The Certificate & The About This Course Section.</summary>
 
@@ -75,7 +75,7 @@ This course is designed to give you a basic working knowledge of Excel and how t
 
 ****
 
-### [📓 Data Visualization and Dashboards with Excel and Cognos]()
+### [📓 Data Visualization and Dashboards with Excel and Cognos](https://github.com/hossam-elshabory/IBM-Data-Analyst-Professional/tree/main/03_Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
 <details>
 <summary>Click To View The Certificate & The About This Course Section.</summary>
 
@@ -93,7 +93,7 @@ You'll learn the basics of visualizing data with Excel and IBM Cognos Analytics 
 
 ****
 
-### [📓 Python for Data Science, AI & Development]()
+### [📓 Python for Data Science, AI & Development](https://github.com/hossam-elshabory/IBM-Data-Analyst-Professional/tree/main/04_Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 <details>
 <summary>Click To View The Certificate & The About This Course Section.</summary>
 
@@ -109,7 +109,7 @@ Python is one of the most popular languages in the programming and data science 
 
 ****
 
-### [📓 Python Project for Data Science]()
+### [📓 Python Project for Data Science](https://github.com/hossam-elshabory/IBM-Data-Analyst-Professional/tree/main/05_Python%20Project%20for%20Data%20Science)
 <details>
 <summary>Click To View The Certificate & The About This Course Section.</summary>
 
@@ -125,7 +125,7 @@ This course primarily involves completing a project in which you will assume the
 
 ****
 
-### [📓 Databases and SQL for Data Science with Python]()
+### [📓 Databases and SQL for Data Science with Python](https://github.com/hossam-elshabory/IBM-Data-Analyst-Professional/tree/main/05_Python%20Project%20for%20Data%20Science)
 <details>
 <summary>Click To View The Certificate & The About This Course Section.</summary>
 
@@ -143,7 +143,7 @@ SQL is a powerful language used for communicating with and extracting data from 
 
 ****
 
-### [📓 Data Analysis with Python]()
+### [📓 Data Analysis with Python](https://github.com/hossam-elshabory/IBM-Data-Analyst-Professional/tree/main/07_Data%20Analysis%20with%20Python)
 <details>
 <summary>Click To View The Certificate & The About This Course Section.</summary>
 
@@ -159,7 +159,7 @@ Analyzing data with Python is an essential skill for Data Scientists and Data An
 
 ****
 
-### [📓 Data Visualization with Python]()
+### [📓 Data Visualization with Python](https://github.com/hossam-elshabory/IBM-Data-Analyst-Professional/tree/main/08_Data%20Visualization%20with%20Python)
 <details>
 <summary>Click To View The Certificate & The About This Course Section.</summary>
 
@@ -177,7 +177,7 @@ In this course you will learn many ways to effectively visualize both small and 
 
 ****
 
-### [📓 IBM Data Analyst Capstone Project]()
+### [📓 IBM Data Analyst Capstone Project](https://github.com/hossam-elshabory/IBM-Data-Analyst-Professional/tree/main/09_IBM%20Data%20Analyst%20Capstone%20Project)
 <details>
 <summary>Click To View The Certificate & The About This Course Section.</summary>
 
